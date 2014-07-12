@@ -12,7 +12,7 @@ class IntellijIdea < Cask
     #{@cask} may require Java 7 (an older version) available from the
     caskroom-versions repo via
 
-        brew cask install caskroom/versions/java7
+        brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/master/Casks/java7.rb
 
     Alternatively, #{@cask} can be modified to use Java 8 as described in
 
