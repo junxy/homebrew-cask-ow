@@ -10,6 +10,10 @@ brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/maste
 brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/master/Casks/java.rb
 ```
 ##### Phpstorm:
-```brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/master/Casks/phpstorm.rb```
+```
+brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/master/Casks/phpstorm.rb
+```
 ##### IntellijIdea: 
-```brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/master/Casks/intellij-idea.rb```
+```
+brew cask install https://raw.githubusercontent.com/junxy/homebrew-cask-ow/master/Casks/intellij-idea.rb
+```
